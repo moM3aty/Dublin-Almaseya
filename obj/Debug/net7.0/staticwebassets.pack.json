@@ -1,0 +1,945 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\GMT Web\\doblen\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\doblen.bundle.scp.css",
+      "PackagePath": "staticwebassets\\doblen.7rdxiq59ln.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\.vscode\\settings.json",
+      "PackagePath": "staticwebassets\\.vscode\\settings.json"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\images\\27b826f9-4e46-45e2-8e69-4b22648be10b.jpg",
+      "PackagePath": "staticwebassets\\images\\27b826f9-4e46-45e2-8e69-4b22648be10b.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\GMT.png",
+      "PackagePath": "staticwebassets\\imgs\\GMT.png"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img1.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img1.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img10.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img10.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img100.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img100.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img101.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img101.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img102.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img102.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img103.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img103.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img104.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img104.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img105.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img105.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img106.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img106.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img107.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img107.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img108.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img108.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img109.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img109.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img11.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img11.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img110.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img110.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img111.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img111.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img112.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img112.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img113.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img113.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img114.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img114.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img115.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img115.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img116.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img116.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img117.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img117.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img118.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img118.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img119.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img119.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img12.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img12.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img120.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img120.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img121.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img121.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img122.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img122.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img123.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img123.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img124.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img124.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img125.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img125.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img126.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img126.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img127.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img127.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img128.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img128.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img129.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img129.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img13.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img13.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img130.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img130.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img131.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img131.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img132.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img132.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img133.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img133.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img134.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img134.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img135.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img135.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img136.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img136.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img137.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img137.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img138.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img138.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img139.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img139.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img14.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img14.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img140.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img140.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img141.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img141.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img142.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img142.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img143.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img143.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img144.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img144.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img145.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img145.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img146.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img146.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img147.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img147.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img148.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img148.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img149.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img149.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img15.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img15.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img150.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img150.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img151.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img151.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img152.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img152.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img153.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img153.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img154.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img154.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img155.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img155.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img156.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img156.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img157.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img157.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img158.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img158.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img159.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img159.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img16.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img16.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img160.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img160.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img161.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img161.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img162.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img162.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img163.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img163.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img164.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img164.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img165.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img165.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img166.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img166.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img167.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img167.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img168.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img168.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img169.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img169.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img17.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img17.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img170.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img170.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img171.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img171.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img172.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img172.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img173.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img173.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img174.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img174.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img175.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img175.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img176.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img176.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img177.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img177.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img178.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img178.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img179.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img179.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img18.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img18.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img180.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img180.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img181.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img181.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img182.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img182.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img183.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img183.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img184.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img184.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img185.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img185.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img186.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img186.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img187.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img187.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img188.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img188.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img189.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img189.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img19.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img19.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img190.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img190.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img191.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img191.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img192.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img192.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img193.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img193.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img194.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img194.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img195.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img195.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img196.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img196.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img197.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img197.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img198.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img198.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img199.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img199.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img2.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img2.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img20.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img20.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img200.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img200.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img201.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img201.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img202.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img202.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img203.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img203.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img204.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img204.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img205.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img205.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img206.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img206.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img207.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img207.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img208.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img208.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img209.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img209.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img21.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img21.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img210.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img210.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img211.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img211.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img22.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img22.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img23.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img23.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img24.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img24.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img25.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img25.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img26.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img26.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img27.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img27.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img28.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img28.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img29.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img29.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img3.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img3.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img30.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img30.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img31.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img31.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img32.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img32.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img33.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img33.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img34.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img34.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img35.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img35.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img36.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img36.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img37.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img37.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img38.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img38.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img39.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img39.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img4.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img4.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img40.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img40.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img41.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img41.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img42.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img42.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img43.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img43.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img44.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img44.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img45.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img45.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img46.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img46.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img47.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img47.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img48.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img48.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img49.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img49.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img5.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img5.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img50.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img50.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img51.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img51.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img52.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img52.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img53.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img53.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img54.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img54.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img55.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img55.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img56.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img56.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img57.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img57.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img58.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img58.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img59.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img59.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img6.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img6.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img60.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img60.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img61.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img61.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img62.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img62.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img63.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img63.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img64.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img64.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img65.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img65.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img66.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img66.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img67.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img67.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img68.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img68.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img69.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img69.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img7.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img7.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img70.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img70.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img71.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img71.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img72.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img72.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img73.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img73.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img74.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img74.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img75.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img75.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img76.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img76.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img77.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img77.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img78.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img78.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img79.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img79.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img8.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img8.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img80.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img80.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img81.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img81.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img82.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img82.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img83.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img83.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img84.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img84.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img85.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img85.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img86.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img86.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img87.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img87.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img88.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img88.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img89.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img89.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img9.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img9.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img90.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img90.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img91.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img91.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img92.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img92.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img93.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img93.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img94.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img94.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img95.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img95.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img96.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img96.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img97.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img97.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img98.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img98.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\img99.jpg",
+      "PackagePath": "staticwebassets\\imgs\\img99.jpg"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\imgs\\logo.png",
+      "PackagePath": "staticwebassets\\imgs\\logo.png"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "E:\\GMT Web\\doblen\\wwwroot\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.doblen.props",
+      "PackagePath": "build\\doblen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.doblen.props",
+      "PackagePath": "buildMultiTargeting\\doblen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.doblen.props",
+      "PackagePath": "buildTransitive\\doblen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.doblen.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.doblen.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

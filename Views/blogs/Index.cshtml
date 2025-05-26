@@ -1,0 +1,70 @@
+﻿@model IEnumerable<doblen.Models.blog>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<section class="hero content" id="home">
+    <div class="container text-center" data-aos="zoom-in" data-aos-delay="100">
+        <h1 class="display-3 fw-bold mb-5">
+            <span class="d-block line line-1" data-en="From Idea And Design" data-ar="من الفكرة والتصميم إلى"> من الفكره والتصميم إلى</span>
+            <span class="d-block line line-2" data-en="To Tangible Reality" data-ar=" واقع ملموس">  واقع ملموس</span>
+        </h1>
+
+        <div class="d-flex justify-content-center gap-3">
+            <a href="#services" class="btn bg-transparent text-white border border-white btn-lg" data-en="Services" data-ar="خدماتنا">خدماتنا <span class="arrow">→</span></a>
+            <a href="#projects" class="btn btn-primary btn-lg" data-en="Projects" data-ar="تصفح الان">تصفح الان <span class="arrow">→</span></a>
+        </div>
+    </div>
+
+    <!-- Wave Animation -->
+    <div class="wave-container">
+        <div class="wave"></div>
+        <div class="wave wave2"></div>
+        <div class="wave wave3"></div>
+    </div>
+</section>
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                Image
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    <img src="~/images/@item.Img" alt="Blog Image" width="100" />
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
